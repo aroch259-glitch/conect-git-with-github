@@ -1,0 +1,59 @@
+#titulo{
+    font-family: Courier;
+    color: white;
+    font-size:large;
+    text-align: center;
+}
+#fotoPrincipal 
+{
+text-align: center;
+    padding-right: 20px;
+
+
+}
+
+
+#fotoPrincipal img {
+    width: 500px;        
+    height: 500px;       
+    border-radius: 50%;  
+    object-fit: cover;   
+    border: 3px solid red;
+}
+.contactos
+ {
+ color: red;
+}
+
+body{
+
+    background-color:rgba(72, 10, 243, 0.658);
+}
+ 
+#accesos
+{
+ text-align: center;
+ font-family:Courier;
+ color: white;
+ 
+}
+header
+{
+    background-color:red;
+}
+main
+{
+ color: white;
+ font-family:fantasy;
+ text-align: center;
+}
+head{
+    background-color: red;
+}
+
+footer
+{
+ font-family: 'Courier New';
+ color: white;
+ text-align: center;
+}
